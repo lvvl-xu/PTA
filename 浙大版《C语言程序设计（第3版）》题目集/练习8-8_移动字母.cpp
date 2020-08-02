@@ -4,7 +4,7 @@
  * @Author: 许东明
  * @Date: 2020-08-02 21:30:31
  * @version: 
- * @LastEditTime: 2020-08-02 21:45:10
+ * @LastEditTime: 2020-08-02 21:47:43
  * @LastEditors: 许东明
  */ 
 #include <stdio.h>
@@ -47,7 +47,7 @@ void Shift( char s[] )
 }
 
 /**
- * @description: 是获取是获取字符串
+ * @description: 获取字符串
  * @param {type} 
  * @return: 
  * @author: 许东明
