@@ -1,12 +1,13 @@
 /*
- * @file: 
+ * @FilePath: \PTA\浙大版《C语言程序设计（第3版）》题目集\习题5-1_符号函数.cpp
  * @Description: 
  * @Author: 许东明
  * @Date: 2020-08-02 20:46:00
  * @version: 
- * @LastEditTime: 2020-08-02 21:03:42
+ * @LastEditTime: 2020-08-02 21:18:22
  * @LastEditors: 许东明
  */ 
+
 #include <stdio.h>
 
 int sign( int x );

@@ -1,12 +1,13 @@
 /*
- * @file: 
+ * @FilePath: \PTA\浙大版《C语言程序设计（第3版）》题目集\习题5-4_使用函数求素数和.cpp
  * @Description: 
  * @Author: 许东明
  * @Date: 2020-08-02 20:46:00
  * @version: 
- * @LastEditTime: 2020-08-02 20:46:30
+ * @LastEditTime: 2020-08-02 21:18:44
  * @LastEditors: 许东明
  */ 
+
 #include <stdio.h>
 #include <math.h>
 
